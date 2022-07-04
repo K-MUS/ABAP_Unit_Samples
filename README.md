@@ -1,5 +1,4 @@
 # ABAP Unit Samples
-ABAP Unit Samples, used in BA SAPers May 2022 meeting.
 
 * Without Dependency: [Class](src/ycl_abap_unit_simple.clas.abap) - [Test Class](src/ycl_abap_unit_simple.clas.testclasses.abap) 
 * Dependency using only SQL (OSQL Test Double Framework): [Class](src/ycl_abap_unit_sql_dependency.clas.abap) - [Test Class](src/ycl_abap_unit_sql_dependency.clas.testclasses.abap)
